@@ -6,6 +6,9 @@ Bomberman
 # Screenshots
 
 ![Menu](menu.png)
+![Premenu](premenu.png)
+![Options](options.png)
+![Game](game.png)
 
 # Building
 
