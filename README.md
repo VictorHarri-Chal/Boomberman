@@ -3,6 +3,10 @@ Bomberman
 [![License](https://img.shields.io/github/license/JohanCDev/Bomberman)](https://github.com/JohanCDev/Bomberman)
 ====
 
+# Screenshots
+
+![Menu](menu.png)
+
 # Building
 
 ## Command Line (via CMake)
